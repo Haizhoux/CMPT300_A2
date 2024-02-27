@@ -1,0 +1,15 @@
+Grade for script mode execution : 20
+Grade for make file execution : 10
+Grade for ls and who command execution  : 5
+Grade for theme (green + purple) command execution : 10
+Grade for log command execution : 10
+Grade for exit + bye command execution : 10
+Grade for print command execution  : 7
+Total Grade is  : 72/80
+Grade for Bonus Question (Optional)  : /20
+TA NAME  : 
+Comment : Good work!
+**************************************************Failed Test cases in case of deducted marks**************************************************
+who command did not return the output correctly
+print did not print multiple argument output correctly (-3 marks) from total
+**************************************************end of file**************************************************
